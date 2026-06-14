@@ -5,3 +5,5 @@ version.ent
 appendices/*.script
 *.swp
 fop.log
+
+target
