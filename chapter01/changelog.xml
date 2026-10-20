@@ -40,6 +40,54 @@
     appropriate for the entry or if needed the entire day's listitem.
     -->
 
+    <listitem revision='sysv'>
+      <para>2026-10-16</para>
+      <itemizedlist>
+        <listitem>
+          <para>[zeckma] - Update to sysklogd-2.8.0. Fixes
+          <ulink url="&lfs-ticket-root;6052">#6052</ulink>.</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+
+    <listitem>
+      <para>2026-10-15</para>
+      <itemizedlist>
+        <listitem>
+          <para>[bdubbs] - Update to expat-2.9.0 (Security Update). Fixes
+          <ulink url="&lfs-ticket-root;6039">#6039</ulink>.</para>
+        </listitem>
+        <listitem>
+          <para>[bdubbs] - Update to grub-2.16. Fixes
+          <ulink url="&lfs-ticket-root;6038">#6038</ulink>.</para>
+        </listitem>
+        <listitem>
+          <para>[bdubbs] - Update to iana-etc-20261009. Addresses
+          <ulink url="&lfs-ticket-root;5006">#5006</ulink>.</para>
+        </listitem>
+        <listitem>
+          <para>[bdubbs] - Update to linux-7.2.10. Fixes
+          <ulink url="&lfs-ticket-root;6037">#6037</ulink>.</para>
+        </listitem>
+        <listitem>
+          <para>[bdubbs] - Update to markupsafe-3.0.4. Fixes
+          <ulink url="&lfs-ticket-root;6036">#6036</ulink>.</para>
+        </listitem>
+        <listitem>
+          <para>[bdubbs] - Update to pkgconf-3.0.8. Fixes
+          <ulink url="&lfs-ticket-root;6045">#6045</ulink>.</para>
+        </listitem>
+        <listitem>
+          <para>[bdubbs] - Update to sqlite-3.54.0. Fixes
+          <ulink url="&lfs-ticket-root;6047">#6047</ulink>.</para>
+        </listitem>
+        <listitem>
+          <para>[bdubbs] - Update to vim-9.2.1178 (Security Update). Fixes
+          <ulink url="&lfs-ticket-root;6048">#6048</ulink>.</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+
     <listitem>
       <para>2026-10-02</para>
       <itemizedlist>
